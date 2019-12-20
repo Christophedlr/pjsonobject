@@ -1,0 +1,22 @@
+{
+    "name": "christophedlr/pjsonobject",
+    "description": "pjsonobject is an library for manage JSON document to PHP object and PHP object to JSON document",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christophedlr",
+            "email": "christophedlr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2|^7.3|^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Christophedlr\\PJsonObject\\": "src/"
+        }
+    }
+}
