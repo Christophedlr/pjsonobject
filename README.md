@@ -4,7 +4,7 @@
 
 ## Install
 
-Type `composer install pjsonobject` or clone the repository.
+Type `composer require christophedlr/pjsonobject` or clone the repository.
 
 ## Usage
 
